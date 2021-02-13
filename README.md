@@ -3,5 +3,5 @@
 ## Introduction
 Program HTML dan JavaScript Sederhana untuk melakukan pemesanan makanan yang dipilih. Dibuat untuk UAS matkul Komputer Aplikasi IT.
 
-## How To Use
-To see preview of the program, please click here : https://azureelysium.github.io/javascript-pemesanan-makanan/.
+## Preview
+Click here : https://azureelysium.github.io/javascript-pemesanan-makanan/.
